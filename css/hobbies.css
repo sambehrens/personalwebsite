@@ -1,0 +1,15 @@
+.half {
+  width: 43%;
+  float: left;
+  margin-right: 1.5%;
+  padding: 25px 3.125% 25px 3.125%;
+}
+
+.second-half {
+  margin-right: 0;
+}
+
+.pictureHalf {
+  margin-top: 135px;
+  padding-top: 65px;
+}
